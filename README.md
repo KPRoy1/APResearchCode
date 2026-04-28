@@ -33,5 +33,10 @@ Statistical Validity - Using the 68-95-99.7 Rule, the sample remains within one 
 
 # How to Run the Analysis
 1) Ensure you have **R** or **RStudio** installed.
-2) Install the necessary dependencies: install.packages("lm.beta"), install.packages("ggplot2"), install.packages("sjPlot"), install.packages("car"), install.packages("dplyr") 
+2) Install the necessary dependencies:
+
+```r
+install.packages(c("lm.beta", "ggplot2", "sjPlot", "car", "dplyr"))
+```
+
 3) Open the `analysis.R` file and run the script to see the multivariate regression output & calculations.
