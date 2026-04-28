@@ -40,3 +40,8 @@ install.packages(c("lm.beta", "ggplot2", "sjPlot", "car", "dplyr"))
 ```
 
 3) Open the `analysis.R` file and run the script to see the multivariate regression output & calculations.
+
+
+# Data Privacy & Access
+In compliance with IRB protocols and FERPA privacy standards, the raw survey data is not included in this public repository. The provided analysis.R script is intended to demonstrate the methodology and mathematical framework used to derive the study's conclusions.
+
